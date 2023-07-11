@@ -4,7 +4,7 @@ Hi Spencer
 Hi Benny
 
 Find a weather API.
-Figure out how to get hourly data into Python as vectors (Temp, Humidity, Vectors for wind direction, etc.) \n
+Figure out how to get hourly data into Python as vectors (Temp, Humidity, Vectors for wind direction, etc.) 
 Pick a model to train and predict hourly data on, ideally with confidence scores.
 Then either predict a week of hourly data based on the past month or so.
 Or iteratively predict 1 hour at a time, and multiply the confidence scores to get the decreasing confidence for each hour.
